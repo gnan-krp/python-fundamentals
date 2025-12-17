@@ -1,4 +1,4 @@
-# python-fundamentals
+# Python-Fundamentals
 
 This repository contains Python programs and mini projects created while learning
 Python programming through Cisco courses. It reflects my hands-on practice
